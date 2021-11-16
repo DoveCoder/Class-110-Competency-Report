@@ -1,0 +1,19 @@
+.admin-page .my-control label {
+    margin-bottom: 13px;
+}
+
+.admin-page .my-control label {
+    display: inline block;
+    width: 120px;
+    text-align: right;
+    margin-right: 7px;
+}
+
+.admin-page {
+    display: flex;
+}
+
+.admin-page section {
+    width: 50vw;
+    flex: 1;
+}

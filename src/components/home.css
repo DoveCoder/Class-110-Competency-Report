@@ -1,0 +1,40 @@
+.home h1 {
+    font-family: cursive;
+    position: absolute;
+    right: 2em;
+    top: .2em;
+    color: #FAFAFA;
+}
+
+.img-hero {
+    background-color: #F7D08A;
+    height: 30em;
+    background-image: url('./images/library.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -24em;
+}
+
+.section-flex {
+    display: flex;
+    background-color: #F7D08A;
+}
+
+.column img {
+    height: 100%;
+    width: 100%;
+}
+
+.home-txt {
+    margin: 4em;
+    color: #E5890A;
+}
+
+.home-txt h3 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #a7a097;
+    text-decoration-thickness: .2rem;
+    color: #9D5C0D;
+}
+

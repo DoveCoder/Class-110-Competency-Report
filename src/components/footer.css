@@ -1,0 +1,15 @@
+.footSection {
+    border-top: 2px solid #F7D08A;
+    border-bottom: 1px solid #F7D08A;
+    background-color: #9D5C0D;
+    padding: 1em;
+    color: #bfbfbf;
+}
+
+.footSection h5 {
+    font-size: 14px;
+}
+
+.footSection h6 {
+    font-size: 11px;
+}
